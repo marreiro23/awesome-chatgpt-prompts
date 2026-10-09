@@ -143929,3 +143929,16 @@ Photorealistic iPhone selfie-style shot in alpine mountains. Bright clear daylig
 
 </details>
 
+<details>
+<summary><strong>Movie Website with Menu Navigation</strong></summary>
+
+## Movie Website with Menu Navigation
+
+Contributed by @anonymous
+
+```md
+Create a movie website that will have menu navigation, beautiful selectors, and more.
+```
+
+</details>
+
