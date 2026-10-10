@@ -163567,21 +163567,6 @@ A children's picture book double-page spread illustration in soft watercolor and
 </details>
 
 <details>
-<summary><strong>كتابة</strong></summary>
-
-## كتابة
-
-Contributed by @anonymous
-
-```md
-بلهجة ليبية بأسلوب رجل مخضرم في العلاقات الاجتماعية وكلمنجي الأفكار متسلسل 
-
-
-```
-
-</details>
-
-<details>
 <summary><strong>Hyper detail moon image</strong></summary>
 
 ## Hyper detail moon image
